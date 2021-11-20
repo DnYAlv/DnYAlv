@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I Am Denny Alvito
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+
+🌱 I’m currently learning about Statistics, Machine Learning, and Data
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" />
 
 <!--
 **DnYAlv/DnYAlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
