@@ -2,7 +2,6 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
 🌱 I’m currently learning about Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, Data Engineering, Web Development, and Data Science
 
