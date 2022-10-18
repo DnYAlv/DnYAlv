@@ -5,8 +5,8 @@
 
 🌱 I’m currently learning about Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, Data Engineering, Web Development, and Data Science
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" /> -->
 
 <!--
 **DnYAlv/DnYAlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
