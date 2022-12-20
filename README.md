@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
-🌱 I’m currently learning about Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, Data Engineering, Web Development, and Data Science
+🌱 I don't know what am i doin' right now
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" /> -->
