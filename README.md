@@ -1,12 +1,13 @@
 ### Hi there I Am Denny Alvito
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
-🌱 I don't know what am i doin' right now
+Currently Learning a Software Development and Machine Learning
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" /> -->
+[![My Skills](https://skillicons.dev/icons?i=dotnet,python,flutter,laravel,tensorflow,js,nodejs,bootstrap,mysql)](https://skillicons.dev)
+
+<!-- 🌱 I don't know what am i doin' right now -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=DnYAlv&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnYAlv&theme=dark" />
 
 <!--
 **DnYAlv/DnYAlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
