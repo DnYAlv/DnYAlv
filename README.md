@@ -2,7 +2,7 @@
 
 Currently Learning a Software Development, Cloud Computing, and Machine Learning
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,python,flutter,laravel,tensorflow,js,nodejs,bootstrap,mysql,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,python,flutter,laravel,tensorflow,js,nodejs,bootstrap,mysql,azure,java,cpp,cs)](https://skillicons.dev)
 
 <!-- 🌱 I don't know what am i doin' right now -->
 
