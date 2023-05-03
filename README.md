@@ -1,6 +1,6 @@
 ### Hi there I Am Denny Alvito
 
-Currently Learning a Software Development, Cloud Computing, and Machine Learning
+Currently Learning a Software Development
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,python,tensorflow,js,nodejs,mysql)](https://skillicons.dev)
 
