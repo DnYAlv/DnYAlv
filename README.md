@@ -24,6 +24,7 @@
   <p>🌱 I’m currently learning .NET and Flutter</p>
   <p>💬 Ask me about Software Development and Artificial Intelligence</p>
 </div>
+<br />
 
 <h2 align="center">Technology Used</h2>
 <div align="center">
