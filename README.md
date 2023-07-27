@@ -33,6 +33,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0093ff?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
