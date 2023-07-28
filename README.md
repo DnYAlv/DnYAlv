@@ -29,12 +29,17 @@
 <h2 align="center">Technology Used</h2>
 <div align="center">
 
-![.NET](https://img.shields.io/badge/Dotnet-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Node.Jjs](https://img.shields.io/badge/Node_JS-green?style=for-the-badge&labelColor=black&logo=node.js&logoColor=green)
 ![jQuery](https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0093ff?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&labelColor=gray&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL_Server-purple?style=for-the-badge&logo=microsoft-sql-server&labelColor=gray&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
