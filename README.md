@@ -21,7 +21,7 @@
 <div align="center">
   <h2>About Me</h2>
   <p>🔭 I’m currently working as <b>Application Developer</b> at PT Freeport Indonesia</p>
-  <p>🌱 I’m currently learning .NET and Flutter</p>
+  <p>🌱 I’m currently learning Web Development Focused on Backend</p>
   <p>💬 Ask me about Software Development and Artificial Intelligence</p>
 </div>
 <br />
