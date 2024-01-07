@@ -35,7 +35,6 @@
 ![Node.Jjs](https://img.shields.io/badge/Node_JS-green?style=for-the-badge&labelColor=black&logo=node.js&logoColor=green)
 ![jQuery](https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0093ff?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&labelColor=gray&logoColor=white)
