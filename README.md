@@ -20,8 +20,7 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p>🔭 I’m currently working as <b>Application Developer</b> at PT Freeport Indonesia</p>
-  <p>🌱 I’m currently learning Web Development Focused on Backend</p>
+  <p>🌱 I’m currently learning Software Development Focused on Backend</p>
   <p>💬 Ask me about Software Development and Artificial Intelligence</p>
 </div>
 <br />
@@ -32,7 +31,7 @@
 ![.NET](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Node.Jjs](https://img.shields.io/badge/Node_JS-green?style=for-the-badge&labelColor=black&logo=node.js&logoColor=green)
+![Node.Js](https://img.shields.io/badge/Node_JS-green?style=for-the-badge&labelColor=black&logo=node.js&logoColor=green)
 ![jQuery](https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
