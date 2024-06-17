@@ -20,7 +20,7 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p>🌱 I’m currently learning Software Development Focused</p>
+  <p>🌱 I’m currently learning Software Development</p>
   <p>💬 Ask me about Software Development and Artificial Intelligence</p>
 </div>
 <br />
